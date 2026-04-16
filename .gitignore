@@ -1,1 +1,4 @@
-.obsidian/ 
+.obsidian/
+node_modules/
+public/
+.quartz-cache/
