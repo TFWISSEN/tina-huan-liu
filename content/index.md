@@ -1,9 +1,7 @@
 ---
 title: Tina · Huan Liu
 ---
----
-title: Tina · Huan Liu
----
+
 
 **Aus China verwurzelt. In Deutschland erweitert. Für die Zukunft verbunden.**  
 **以中国为根，在德国延展，向未来连接。**
