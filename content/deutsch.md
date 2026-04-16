@@ -1,6 +1,10 @@
 ---
 title: Deutsch｜Für deutsche Kontexte
 ---
+---
+title: Deutsch｜Für deutsche Kontexte
+---
+
 ## Ein Einstieg für deutsche Kontexte
 
 Diese Seite richtet sich an Menschen und Organisationen, die Tina · Huan Liu
@@ -33,6 +37,17 @@ Arbeits- und Kommunikationsräume.
 - Sprache, Systeme und Zukunft
 
 ---
+
+## Ein konkreter Raum｜Ein Beispiel
+
+Ein konkreter Arbeits- und Denkraum in diesem Feld ist das
+[Odoo-Wissensuniversum](https://tina10177.github.io/odoo-wissensuniversum/).
+
+Es zeigt, wie sich ERP, Wissensstruktur, Sprache und Orientierung
+in einem offenen digitalen Raum verbinden lassen.
+
+---
+
 ## Zusammenarbeit｜Wofür dieser Raum offen ist
 
 Dieser Raum ist offen für Austausch, Zusammenarbeit und Anschlussmöglichkeiten
@@ -46,6 +61,7 @@ Besonders anschlussfähig ist er für:
 - Projekte an der Schnittstelle von Wissen, Systemen und Kommunikation
 
 ---
+
 ## In Entwicklung
 
 Diese deutschsprachige Seite wird schrittweise weiter ausgebaut.
