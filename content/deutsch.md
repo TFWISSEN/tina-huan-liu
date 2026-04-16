@@ -1,9 +1,6 @@
 ---
-title: Deutsch
+title: Deutsch｜Für deutsche Kontexte
 ---
-
-# Deutsch
-
 ## Ein Einstieg für deutsche Kontexte
 
 Diese Seite richtet sich an Menschen und Organisationen, die Tina · Huan Liu
@@ -36,7 +33,19 @@ Arbeits- und Kommunikationsräume.
 - Sprache, Systeme und Zukunft
 
 ---
+## Zusammenarbeit｜Wofür dieser Raum offen ist
 
+Dieser Raum ist offen für Austausch, Zusammenarbeit und Anschlussmöglichkeiten
+im Spannungsfeld von Sprache, Systemverständnis, interkultureller Praxis
+und China–Deutschland-Kontexten.
+
+Besonders anschlussfähig ist er für:
+
+- deutsche Unternehmen mit Interesse an China-bezogenen Kontexten
+- Teams, die zwischen Sprachen, Kulturen und Arbeitslogiken vermitteln müssen
+- Projekte an der Schnittstelle von Wissen, Systemen und Kommunikation
+
+---
 ## In Entwicklung
 
 Diese deutschsprachige Seite wird schrittweise weiter ausgebaut.

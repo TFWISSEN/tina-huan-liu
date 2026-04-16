@@ -1,5 +1,5 @@
 ---
-title: Zwischenräume TEST｜之间
+title: Zwischenräume｜之间
 ---
 ## Eine dritte Tür
 
@@ -38,13 +38,12 @@ Sie sind Orte, an denen neue Bedeutungen entstehen.
   更靠近语言、温度、共鸣与回应。
 
 ---
+## Ein weiterer Raum｜另一个空间
 
-## Noch im Werden｜仍在生成中
+Von hier aus führt ein stillerer Weg weiter:
+[Ich Natur ZeitRaum](https://tina10177.github.io/ich-natur-zeitraum/)
 
-Dieser Raum wird nicht auf einmal fertig.  
-这个空间不会一次完成。
-
-Er wächst.  
-它会慢慢生长。
+从这里，还可以继续走向一个更安静、更生长性的空间：
+[Ich Natur ZeitRaum](https://tina10177.github.io/ich-natur-zeitraum/)
 
 [← Zur Startseite｜返回首页](./)
