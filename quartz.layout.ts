@@ -12,6 +12,7 @@ footer: Component.Footer({
     "E-Mail": "mailto:huanliude@gmx.de",
     GitHub: "https://github.com/TFWISSEN",
   },
+  hidePoweredBy: true,
 }),
 }
 
