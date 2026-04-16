@@ -2,24 +2,24 @@
 title: Tina · Huan Liu
 ---
 
+**China · Germany · Future**  
+**中国 · 德国 · 未来**
 
-**Aus China verwurzelt. In Deutschland erweitert. Für die Zukunft verbunden.**  
-**以中国为根，在德国延展，向未来连接。**
+Aus China verwurzelt. In Deutschland erweitert. Für die Zukunft verbunden.  
+以中国为根，在德国延展，向未来连接。
 
-Zwischen Sprache, Systemen und Kulturen entsteht ein Raum für Verständigung, Zusammenarbeit und Entwicklung.  
-在语言、系统与文化之间，生长出一个通向理解、协作与发展的空间。
+Ein öffentlicher Einstieg zwischen Sprache, Systemen, Kulturen und Zukunft.  
+一个位于语言、系统、文化与未来之间的公开入口。
 
 ---
 
 ## Drei Einstiege｜三扇门
 
 ### [Deutsch](./deutsch)
-Ein Einstieg für deutsche Kontexte, Unternehmen und Zusammenarbeit.  
-一个面向德语语境、德国企业与合作场景的入口。
+Ein Einstieg für deutsche Kontexte, Unternehmen und Zusammenarbeit.
 
 ### [中文](./zhongwen)
-一个面向中文语境、中国个人与中国企业的入口。  
-Ein Einstieg für chinesische Kontexte, Unternehmen und Zusammenarbeit.
+一个面向中文语境、中国个人与中国企业的入口。
 
 ### [Zwischenräume｜之间](./zwischenraeume)
 Ein dritter Raum zwischen Chinesisch und Deutsch.  
