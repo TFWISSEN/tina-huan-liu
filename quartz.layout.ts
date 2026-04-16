@@ -6,12 +6,13 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+footer: Component.Footer({
+  links: {
+    LinkedIn: "https://www.linkedin.com/in/huan-liu-361013155/",
+    E-Mail: "mailto:huanliude@gmx.de",
+    GitHub: "https://github.com/TFWISSEN",
+  },
+}),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -40,11 +41,20 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+right: [
+  Component.ConditionalRender({
+    component: Component.Graph(),
+    condition: (page) => page.fileData.slug !== "index",
+  }),
+  Component.ConditionalRender({
+    component: Component.DesktopOnly(Component.TableOfContents()),
+    condition: (page) => page.fileData.slug !== "index",
+  }),
+  Component.ConditionalRender({
+    component: Component.Backlinks(),
+    condition: (page) => page.fileData.slug !== "index",
+  }),
+],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
