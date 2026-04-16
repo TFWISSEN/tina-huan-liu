@@ -7,12 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
 footer: Component.Footer({
-  links: {
-    LinkedIn: "https://www.linkedin.com/in/huan-liu-361013155/",
-    "E-Mail": "mailto:huanliude@gmx.de",
-    GitHub: "https://github.com/TFWISSEN",
-  },
-  hidePoweredBy: true,
+  links: {},
 }),
 }
 
