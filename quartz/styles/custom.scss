@@ -1,3 +1,131 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* =========================
+   Tina · Huan Liu — first visual pass
+   ========================= */
+
+:root[saved-theme="dark"] {
+  --light: #0b1020;
+  --lightgray: #1a2233;
+  --gray: #7d8798;
+  --darkgray: #d7dde7;
+  --dark: #f3f6fb;
+
+  --secondary: #9bb3cc;
+  --tertiary: #d2a85c;
+
+  --highlight: rgba(155, 179, 204, 0.16);
+  --textHighlight: rgba(210, 168, 92, 0.22);
+}
+
+:root[saved-theme="light"] {
+  --light: #f5f3ef;
+  --lightgray: #e6e1d8;
+  --gray: #7f7a73;
+  --darkgray: #3f4652;
+  --dark: #1f2a38;
+
+  --secondary: #516d8b;
+  --tertiary: #a67c36;
+
+  --highlight: rgba(81, 109, 139, 0.10);
+  --textHighlight: rgba(166, 124, 54, 0.18);
+}
+
+/* page background + reading surface */
+body {
+  letter-spacing: 0.01em;
+}
+
+.page {
+  background: transparent;
+}
+
+/* headings */
+article h1,
+article h2,
+article h3,
+article h4 {
+  color: var(--dark);
+  letter-spacing: -0.01em;
+}
+
+article h1 {
+  font-weight: 700;
+}
+
+article h2 {
+  margin-top: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+/* body copy */
+article p,
+article li {
+  line-height: 1.85;
+}
+
+/* softer separators */
+hr,
+article hr {
+  border: none;
+  border-top: 1px solid color-mix(in srgb, var(--gray) 28%, transparent);
+  margin: 2rem 0;
+}
+
+/* sidebar feeling */
+.left.sidebar {
+  background-color: transparent;
+}
+
+/* page title in sidebar / mobile */
+.page-title {
+  color: var(--secondary);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* search box */
+.search {
+  background-color: transparent;
+}
+
+.search > #search-container {
+  border-color: color-mix(in srgb, var(--gray) 35%, transparent);
+  background-color: transparent;
+}
+
+/* internal pill-like links */
+a.internal {
+  background-color: var(--highlight);
+  border-radius: 0.45rem;
+  padding: 0.08rem 0.35rem;
+}
+
+/* explorer links */
+.explorer-content a {
+  font-weight: 600;
+}
+
+/* footer keep subtle */
+footer {
+  margin-top: 2rem;
+  opacity: 0.9;
+}
+
+/* mobile refinement */
+@media all and (max-width: 800px) {
+  .page-title {
+    font-size: 2.2rem;
+  }
+
+  article h1 {
+    font-size: 2.1rem;
+    line-height: 1.15;
+  }
+
+  article p,
+  article li {
+    line-height: 1.75;
+  }
+}
